@@ -272,6 +272,7 @@
     top: 15px;
     border-radius: 50%;
     z-index: 1;
+    box-shadow: 0 0 4px 17px #001931;
 }
 
 .left {
@@ -307,6 +308,7 @@
         border: medium solid white;
         border-width: 10px 10px 10px 0;
         border-color: transparent white transparent transparent;
+     
     }
 
     .left::after,
