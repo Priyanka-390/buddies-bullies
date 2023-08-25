@@ -1,0 +1,12 @@
+ :root {
+    /* font size */
+    --fs-30: 30px;
+    --fs-18: 18px;
+    --fs-20: 20px;
+    --fs-50: 50px;
+    /* /font-weight */
+    --fw-500: 500px;
+    --fw-600: 600px;
+    /* font-family */
+    --ff-poppins: 'poppins', sans-serif;
+ }
